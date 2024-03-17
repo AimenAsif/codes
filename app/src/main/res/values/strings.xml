@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="profile_image">profile image</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="social_login">Social Login</string>
+    <string name="facebook_img">facebook img</string>
+    <string name="instagram_pic">instagram pic</string>
+</resources>
