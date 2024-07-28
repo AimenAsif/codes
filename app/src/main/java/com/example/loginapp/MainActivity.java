@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         password =findViewById(R.id.password_input);
         login_btn =findViewById(R.id.login_btn);
         login_btn.setOnClickListener(this::onClick);
-    }
+}
 
     private void onClick(View view) {
         if (username.getText().toString().equals("user") && password.getText().toString().equals("3434")) {
